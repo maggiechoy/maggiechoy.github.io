@@ -109,7 +109,6 @@ a:hover small {
 
 .wrapper {
   width:860px;
-  background:#0d0b0b;
   margin:0 auto;
 }
 
@@ -254,6 +253,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+    background:#0d0b0b;
   }
 
   header, section, footer {
