@@ -110,6 +110,7 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  color:#0d0b0b;
 }
 
 blockquote {
@@ -253,7 +254,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    background:#0d0b0b;
+    color:#0d0b0b;
   }
 
   header, section, footer {
